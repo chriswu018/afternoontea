@@ -1,0 +1,17 @@
+{
+  "name": "afternoontea",
+  "version": "1.0.0",
+  "author": "chriswula",
+  "description": "tea oss project",
+  "keywords": ["tea", "utils"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "license": "ISC",
+  "homepage": "https://your-package.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
