@@ -1,17 +1,21 @@
 {
   "name": "afternoontea",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "chriswula",
   "description": "tea oss project",
   "keywords": ["tea", "utils"],
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/chriswu018/afternoontea"
   },
   "license": "ISC",
-  "homepage": "https://your-package.org",
+  "homepage": "https://github.com/chriswu018/afternoontea",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.4"
   }
 }
